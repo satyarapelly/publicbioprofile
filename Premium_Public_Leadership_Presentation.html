@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Satya Rapelly | Public Leadership Presentation</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg1: #0d1b2a;
+      --bg2: #1b263b;
+      --bg3: #415a77;
+      --accent: #90e0ef;
+      --accent-2: #c8b6ff;
+      --white: #f8fafc;
+      --muted: #cbd5e1;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: 'Manrope', sans-serif;
+      background: radial-gradient(circle at top right, #23395d 0%, #0d1b2a 55%, #070f1a 100%);
+      color: var(--white);
+    }
+    .deck { max-width: 1360px; margin: 0 auto; padding: 24px; }
+    .slide {
+      min-height: 760px;
+      padding: 48px;
+      margin: 28px 0;
+      border-radius: 24px;
+      background: linear-gradient(135deg, rgba(39,61,92,.95) 0%, rgba(15,24,39,.92) 60%, rgba(65,90,119,.8) 100%);
+      border: 1px solid rgba(255,255,255,.08);
+      box-shadow: 0 24px 60px rgba(0,0,0,.35);
+      display: grid;
+      gap: 20px;
+      position: relative;
+      overflow: hidden;
+    }
+    .slide::after {
+      content: '';
+      position: absolute;
+      right: -120px; top: -120px;
+      width: 360px; height: 360px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(144,224,239,.3) 0%, rgba(200,182,255,.12) 45%, transparent 72%);
+    }
+    .kicker { font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); font-size: 13px; }
+    h1, h2 { margin: 0; font-family: 'Playfair Display', serif; line-height: 1.1; }
+    h1 { font-size: 64px; max-width: 900px; }
+    h2 { font-size: 44px; }
+    p { margin: 0; color: var(--muted); line-height: 1.7; font-size: 20px; }
+    .subtitle { color: #e2e8f0; font-size: 24px; font-weight: 600; }
+    .two-col { display: grid; grid-template-columns: 1.2fr 1fr; gap: 28px; align-items: center; }
+    .cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+    .card {
+      background: linear-gradient(165deg, rgba(255,255,255,.1), rgba(255,255,255,.04));
+      border: 1px solid rgba(255,255,255,.12);
+      border-radius: 18px;
+      padding: 20px;
+      backdrop-filter: blur(5px);
+    }
+    .card h3 { margin: 0 0 10px; font-size: 20px; color: #eef; }
+    .card p, li { font-size: 17px; color: var(--muted); }
+    .placeholder {
+      border-radius: 16px;
+      border: 2px dashed rgba(255,255,255,.35);
+      min-height: 260px;
+      padding: 18px;
+      display: grid;
+      place-content: center;
+      text-align: center;
+      color: #dbeafe;
+      background: linear-gradient(145deg, rgba(144,224,239,.12), rgba(200,182,255,.08));
+      font-weight: 700;
+    }
+    ul { margin: 8px 0 0 18px; display: grid; gap: 8px; }
+    .storyline { display: grid; grid-template-columns: repeat(5,1fr); gap: 12px; }
+    .node { padding: 14px; border-radius: 14px; background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.14); font-weight: 600; text-align: center; }
+  </style>
+</head>
+<body>
+  <main class="deck">
+    <section class="slide">
+      <span class="kicker">Premium Public Leadership Profile</span>
+      <h1>Satya Rapelly</h1>
+      <p class="subtitle">Technology Leader • Social Impact Strategist • Telangana Grassroots Development Visionary</p>
+      <div class="two-col">
+        <p>Building inclusive human development ecosystems across Telangana through education, dignity, digital inclusion, preventive healthcare, youth employability, and institutional strengthening.</p>
+        <div class="placeholder">Portrait Placeholder<br/>Executive Hero Image</div>
+      </div>
+    </section>
+
+    <section class="slide">
+      <span class="kicker">Leadership Story</span>
+      <h2>From Rural Telangana to Enterprise Leadership</h2>
+      <div class="storyline">
+        <div class="node">Rural Roots</div><div class="node">Government Education</div><div class="node">Tech Career</div><div class="node">Telangana Movement</div><div class="node">Give For Society</div>
+      </div>
+      <p>Raised in a small-scale farmer family, Satya’s lived exposure to inequality shaped a lifelong conviction: education is the strongest foundation for social transformation.</p>
+      <div class="cards">
+        <article class="card"><h3>Global Professional Journey</h3><p>25+ years across Microsoft, Infosys, Cognizant, and Wipro.</p></article>
+        <article class="card"><h3>Turning Point</h3><p>Movement-oriented social engagement began in 2011.</p></article>
+        <article class="card"><h3>Institution Building</h3><p>Give For Society established in 2017 for scalable grassroots impact.</p></article>
+      </div>
+    </section>
+
+    <section class="slide">
+      <span class="kicker">Ideological Foundation</span>
+      <h2>Inclusive Development Through Education, Dignity & Opportunity</h2>
+      <div class="two-col">
+        <div class="cards" style="grid-template-columns:1fr;">
+          <article class="card"><h3>Equity Lens</h3><p>Focus on SC, ST, BC, Muslim minority communities, women, rural youth, and first-generation learners.</p></article>
+          <article class="card"><h3>Philosophy</h3><p>Shift from dependency-based welfare to empowerment via institutions, knowledge, and technology access.</p></article>
+          <article class="card"><h3>Belief</h3><p>Sustainable progress comes when public systems become stronger and more inclusive.</p></article>
+        </div>
+        <div class="placeholder">Quote Placeholder<br/>“Communities become stronger when education, dignity, healthcare, opportunity, and technology evolve together.”</div>
+      </div>
+    </section>
+
+    <section class="slide">
+      <span class="kicker">Flagship Initiatives</span>
+      <h2>Integrated, Community-Centered Transformation Model</h2>
+      <div class="cards">
+        <article class="card"><h3>Empowering Rural Learning</h3><ul><li>Digital classrooms & STEM labs</li><li>Science-first exposure</li><li>Government school modernization</li></ul></article>
+        <article class="card"><h3>Integrated Learning Centers</h3><ul><li>Village knowledge hubs</li><li>Digital literacy access</li><li>Career guidance & women participation</li></ul></article>
+        <article class="card"><h3>Sthree Swabhiman</h3><ul><li>Menstrual dignity awareness</li><li>Institutional support systems</li><li>Adolescent well-being</li></ul></article>
+        <article class="card"><h3>ArogyaSetu Outreach</h3><ul><li>Preventive health awareness</li><li>Early screening support</li><li>Telemedicine-enabled access</li></ul></article>
+        <article class="card"><h3>Youth Employability</h3><ul><li>Digital literacy and AI awareness</li><li>Workforce readiness pathways</li><li>Future-skills ecosystem building</li></ul></article>
+        <article class="card"><h3>Ecosystem Integration</h3><ul><li>Education + healthcare + dignity</li><li>Institution-centered approach</li><li>Long-term community resilience</li></ul></article>
+      </div>
+    </section>
+
+    <section class="slide">
+      <span class="kicker">Vision 2030</span>
+      <h2>Future-Ready, Inclusive Telangana</h2>
+      <div class="two-col">
+        <div>
+          <p>A Telangana where every child accesses quality learning, women live with dignity and opportunity, youth are future-skills ready, and villages become digitally connected knowledge ecosystems.</p>
+          <ul>
+            <li>Scale inclusive education and digital access.</li>
+            <li>Strengthen preventive healthcare in underserved regions.</li>
+            <li>Build women-centered participation ecosystems.</li>
+            <li>Create opportunity-driven, institution-led rural transformation.</li>
+          </ul>
+        </div>
+        <div class="placeholder">Map / Impact Dashboard Placeholder<br/>District-wise Scale Story</div>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
