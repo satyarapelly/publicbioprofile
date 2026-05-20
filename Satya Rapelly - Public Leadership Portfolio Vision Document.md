@@ -1,4 +1,4 @@
-# Satya Rapelly — Public Leadership & Development Vision Portfolio
+# Satya Rapelly - Public Leadership & Development Vision Portfolio
 
 ## Purpose and Audience
 This document presents Satya Rapelly’s long-term public leadership vision and development framework for policymakers, institutions, CSR leaders, partners, and public stakeholders.
@@ -50,7 +50,7 @@ This portfolio defines Satya Rapelly’s public leadership identity, ideological
 This is no longer a profile, brochure, or CV.
 
 It now stands as:
-**“The Public Leadership & Development Vision Portfolio of Satya Rapelly.”**
+**The Public Leadership & Development Vision Portfolio of Satya Rapelly.**
 
 ## 3) Next Critical Phase: Visual Transformation
 Content strength is already established across leadership, ideology, and development vision.
@@ -115,6 +115,6 @@ Choose one primary style direction:
 ## 7) Recommended Public Narrative
 The strongest strategic narrative is:
 
-**“Technology-Driven Telangana Grassroots Development Visionary.”**
+**Technology-Driven Telangana Grassroots Development Visionary.**
 
 This positioning is distinctive, credible, and scalable across public leadership, policy engagement, social development, and institutional partnerships.
