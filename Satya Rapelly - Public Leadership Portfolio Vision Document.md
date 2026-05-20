@@ -1,5 +1,8 @@
 # Satya Rapelly — Public Leadership & Development Vision Portfolio
 
+## Purpose and Audience
+This document presents Satya Rapelly’s long-term public leadership vision and development framework for policymakers, institutions, CSR leaders, partners, and public stakeholders.
+
 ## Positioning Statement
 **Technology-Driven Telangana Grassroots Development Visionary**
 
@@ -57,17 +60,17 @@ Now the decisive step is premium presentation quality to elevate perceived publi
 ## 4) Final Output Architecture
 
 ### A. Main Profile Book
-- 40–60 pages
+- 40-60 pages
 - Premium designed PDF
 - Style: modern, minimal, visual, leadership-oriented
 - Tone balance: political + CSR + intellectual
 
 ### B. Executive Short Version
-- 8–12 pages
+- 8-12 pages
 - For ministers, CSR meetings, institutions, partnerships, speaking invitations
 
 ### C. Public Profile Presentation
-- 15–20 slides
+- 15-20 slides
 - Highly visual format for meetings, leadership introductions, and CSR pitches
 
 ### D. LinkedIn / Website Version
