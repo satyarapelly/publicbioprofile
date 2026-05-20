@@ -106,11 +106,11 @@ Now the decisive step is premium presentation quality to elevate perceived publi
 - Event banners
 - News clippings
 
-## 6) Final Visual Identity Decision
+## 6) Visual Identity Options
 Choose one primary style direction:
-- **Option B:** Telangana Grassroots Visionary (warmer, people-centered, movement-oriented)
-- **Option D:** Public Intellectual / Policy Thinker (minimal, elegant, thought-leadership heavy)
-- **Option E (Recommended):** Hybrid — corporate sophistication + grassroots authenticity + public leadership
+- **Option 1:** Telangana Grassroots Visionary (warmer, people-centered, movement-oriented)
+- **Option 2:** Public Intellectual / Policy Thinker (minimal, elegant, thought-leadership heavy)
+- **Option 3 (Recommended):** Hybrid — corporate sophistication + grassroots authenticity + public leadership
 
 ## 7) Recommended Public Narrative
 The strongest strategic narrative is:
